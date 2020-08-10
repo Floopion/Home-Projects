@@ -1,0 +1,3 @@
+C:\Users\Rohill\Desktop\prog-4-roguelike-Jaebjoo\Checkpoint\Debug\Checkpoint.MyForm.resources
+C:\Users\Rohill\Desktop\prog-4-roguelike-Jaebjoo\Checkpoint\Debug\Checkpoint.vcxproj.GenerateResource.cache
+C:\Users\Rohill\Desktop\prog-4-roguelike-Jaebjoo\Checkpoint\Debug\Checkpoint.vcxprojAssemblyReference.cache
